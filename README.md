@@ -9,3 +9,5 @@ My Mantra:
 AS a CONSUMER,
 I WANT a WEBSITE/APP that fits SEAMLESSLY into my life and adds VALUE either through EXPERIENCE or meeting my needs EFFICIENTLY
 SO I can have MORE TIME to do the things I LOVE.
+
+What's your mantra and favourite language? Or do you have a a challenge for me? Hit me up at lily@lilyso.net. I love to fix things. 
