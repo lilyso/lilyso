@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack developer in training with experience in HTML5, CSS3, JavaScript, JQuery, MySQL, & Node.js.
+I'm a full stack developer in training with experience in HTML, CSS, JavaScript, JQuery, MySQL, Node.js, React, Express.js, MongoDB & Gatsby. 
           
 After working in Digital Marketing for over 8 years, I was just sick of working with (and using) bad websites with terrible UX and clunky code. So I decided I needed to learn how to fix this! 
 
